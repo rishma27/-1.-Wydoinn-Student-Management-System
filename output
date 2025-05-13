@@ -1,0 +1,13 @@
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 1
+
+Enter student name: Alice
+Enter roll number: 101
+Enter grade: A
+Student added successfully!
